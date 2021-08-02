@@ -1,0 +1,4 @@
+name = "julia_testing"
+uuid = "2e199422-d097-4517-a3ef-4970c88d0a54"
+authors = ["PravNJ <prav.nj@gmail.com>"]
+version = "0.1.0"
